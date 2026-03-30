@@ -1,4 +1,4 @@
-##Task 1: Digital Literacy Poster Design
+# Task 1: Digital Literacy Poster Design
 
 Designed a creative poster using Canva that highlights key aspects of digital literacy, including:
 
